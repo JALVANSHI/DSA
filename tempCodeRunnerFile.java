@@ -1,3 +1,3 @@
- // else if(i==m){
-            //     System.out.println("");
-            // }
+if(n==6){
+        //     return;
+        // }
